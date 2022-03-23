@@ -10,4 +10,4 @@
 * Създаване на шаблонни класове
 * Работа с многомерни и асоциативни структури от данни
 
-![Certificate]()
+![Certificate](https://github.com/NikolayKostadinov/Java-Advanced/blob/main/Certificates/Java%20Advanced%20-%20September%202021%20-%20Certificate.jpeg)
